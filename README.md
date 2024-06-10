@@ -13,7 +13,7 @@ The application uses the LLaMA 2 model (llama-2-7b-chat.ggmlv3.q2_K.bin) and Str
 cd blog-generation-llm-app
 
 - **Install Dependencies:** pip install -r requirements.txt
-- **Download Model:** Place llama-2-7b-chat.ggmlv3.q2_K.bin in the models directory.
+- **Download Model:** Place 'llama-2-7b-chat.ggmlv3.q2_K.bin' in the models directory.
 - **Run the Application:** streamlit run app.py
 
 ## Usage
